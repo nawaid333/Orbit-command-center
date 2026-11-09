@@ -2,7 +2,7 @@
 
 A privacy-first personal workspace for tasks, focus sessions, and quick notes. ORBIT is designed to run in your browser without an account, API key, or backend.
 
-**Live demo:** https://orbit-command-center-nawaid333.vercel.app
+**Live demo:** https://nawaid-orbit-dashboard.vercel.app
 
 ## Features
 - Task manager: add, complete, and delete tasks
@@ -26,3 +26,8 @@ Tasks and notes are stored in browser local storage on the device where you use 
 
 ## License
 MIT. See [LICENSE](LICENSE).
+
+
+## Deployment
+
+The `main` branch is connected to Vercel. New commits pushed to `main` trigger an automatic production deployment.
